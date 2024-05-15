@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 I'm a developer who is easily inspired by cool animations and user friendly websites. I'm working on improving my skillset to do the same on my own, soon.
 - :telescope: I’m a student-cum-software-engineer, working on frontend and backend for building web applications.
 
-- :mailbox:reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/sanjeevinirakesh)
+- :mailbox:reach me: [![Linkedin Badge](https://in.linkedin.com/in/sanjeevinirakesh)]
 
 ---
 
