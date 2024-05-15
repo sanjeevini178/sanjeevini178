@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 I'm a developer who is easily inspired by cool animations and user friendly websites. I'm working on improving my skillset to do the same on my own, soon.
-- :telescope: I’m a student-cum-software-engineer, working on frontend and backend for building web applications.
+- :telescope: I’m a student software engineer, learning and building web applications.
 
 - :mailbox:reach me: through linkedin!
 
