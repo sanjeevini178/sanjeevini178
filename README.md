@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
+<div id="header">
   
    <!--<div id="badges">
     <a href="https://in.linkedin.com/in/sanjeevinirakesh">
@@ -22,10 +22,10 @@ Here are some ideas to get you started:
     </a>
   </div> -->
   <!-- <img src="https://komarev.com/ghpvc/?username=sanj179&style=flat-square&color=blue" alt=""/> -->
-  <h3>
+  <h2>
     Hello!
     <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-  </h3>
+  </h2>
 </div>
 
 ---
