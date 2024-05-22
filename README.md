@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   
-  <div id="badges">
+   <!--<div id="badges">
     <a href="https://in.linkedin.com/in/sanjeevinirakesh">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-  </div>
+  </div> -->
   <!-- <img src="https://komarev.com/ghpvc/?username=sanj179&style=flat-square&color=blue" alt=""/> -->
-  <h1>
-    Welcome to my GitHub!
+  <h3>
+    Hello!
     <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-  </h1>
+  </h3>
 </div>
 
 ---
