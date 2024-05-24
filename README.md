@@ -36,5 +36,5 @@ I'm working on improving my skillset to do the same on my own, soon.
 
 ---
 
-[![Sanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanju179)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanju179)]
 
