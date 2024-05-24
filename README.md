@@ -36,5 +36,5 @@ I'm working on improving my skillset to do the same on my own, soon.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanju179)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanju179&layout=compact)
 
