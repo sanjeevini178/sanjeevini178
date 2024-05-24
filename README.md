@@ -15,20 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header">
-  
-   <!--<div id="badges">
-    <a href="https://in.linkedin.com/in/sanjeevinirakesh">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div> -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=sanj179&style=flat-square&color=blue" alt=""/> -->
   <h2>
     Hello!
-    <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
   </h2>
 </div>
-
----
 
 ### :woman_technologist: About Me :
 I'm a developer who admires and draws inspiration from cool animations and user friendly websites. 
@@ -41,7 +31,7 @@ I'm working on improving my skillset to do the same on my own, soon.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" style="background-color: grey; border-radius: 2px"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
