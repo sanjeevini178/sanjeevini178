@@ -34,3 +34,7 @@ I'm working on improving my skillset to do the same on my own, soon.
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" title="Scikit-learn"  alt="Scikit-learn" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+[![Sanju's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanju179)](https://github.com/anuraghazra/github-readme-stats)
+
