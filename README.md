@@ -21,7 +21,7 @@ Reach me here:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages, Frameworks and Tools:
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
