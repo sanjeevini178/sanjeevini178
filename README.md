@@ -7,9 +7,8 @@
 
 I'm a developer who admires and draws inspiration from cool animations and user friendly websites. 
 I'm working on improving my skillset to do the same on my own, soon.
-- :telescope: I’m a student and a software engineer, learning and building web applications.
-
-- :mailbox:reach me: through linkedin!
+Reach me here: ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjeevinirakesh/)
+              ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&link=sanjeevinir17@outlook.com)
 
 ---
 
@@ -36,5 +35,5 @@ I'm working on improving my skillset to do the same on my own, soon.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanju179&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanju179&layout=compact&theme=gotham)
 
