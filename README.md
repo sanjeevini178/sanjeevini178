@@ -7,7 +7,7 @@
 
 <ul>
   <li>
-    I'm a developer who admires and draws inspiration from cool animations and user friendly websites. I'm working on improving my skillset to do the same on my own, soon.
+    I'm a developer who admires and draws inspiration from cool animations and user friendly websites. Really intrigued by recent AI ML developments in tech. Climbing my way through.
   </li>
   <li>
     
