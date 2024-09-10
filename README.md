@@ -7,9 +7,6 @@
 
 <ul>
   <li>
-    I'm a developer who admires and draws inspiration from cool animations and user friendly websites. Really intrigued by recent AI ML developments in tech. Climbing my way through.
-  </li>
-  <li>
     
 Reach me here: 
 <br>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjeevinirakesh/)
