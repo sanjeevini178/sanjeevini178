@@ -28,12 +28,9 @@ Contact me here:
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  
 <!--   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; -->
-  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma"  alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" title="Illustrator"  alt="Illustrator" width="40" height="40"/>&nbsp;
   
